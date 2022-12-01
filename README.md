@@ -1,5 +1,5 @@
 # skaeb
-hello  ,mu name Vika
+hello  , страна ,как дела?
 aaa
 aaa
 
